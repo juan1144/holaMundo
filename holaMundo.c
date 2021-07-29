@@ -2,6 +2,6 @@
 /* comentarios */
 int main()
 {
-    printf("Hola como estan!\n");
+    printf("Hola mundo!\n");
     return 0;
 }
